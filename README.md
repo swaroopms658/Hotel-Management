@@ -1,4 +1,4 @@
- a C++-based restaurant management system that efficiently handles orders, inventory, and sales data.
+ A C++-based restaurant management system that efficiently handles orders, inventory, and sales data.
 
 Key Features:
 
